@@ -1,3 +1,3 @@
 # hello-world
+Hi, this is Deepankar, 
 It's a practice folder.
-Hi this is Deepankar, I'm learnnng Git from Git documenation.
